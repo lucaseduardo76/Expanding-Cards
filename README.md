@@ -4,6 +4,6 @@ PROJETO PARA EXERCITAR HABILIDADES EM:
 - CSS
 - JAVA SCRIPT
 
-O projto consiste em Criar cards que ao clicar irão se expandir.
+O projeto consiste em Criar cards que ao clicar irão se expandir.
 
 Projeto totalmnte responsivo.

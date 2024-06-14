@@ -6,4 +6,4 @@ PROJETO PARA EXERCITAR HABILIDADES EM:
 
 O projeto consiste em Criar cards que ao clicar irão se expandir.
 
-Projeto totalmnte responsivo.
+Projeto totalmente responsivo.
